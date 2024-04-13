@@ -1,2 +1,3 @@
-# crossword-assistant
-LLM-powered crossword puzzle assistant
+## ClueMaster: An LLM-powered Crossword Puzzle Companion
+
+Our study focused on the New York Times (NYT) crossword puzzles, noted for their distinctive clues and progressive difficulty levels. The primary aim of this project is to provide users with potential answers that are sensitive to the context and language intricacies of the clue and the structural constraints of the crossword puzzle, such as word length. We examined various methods, including BERT, zero/few-shot predictions, RAG, and fine-tuning techniques, and evaluated their effectiveness in navigating the linguistic terrain of NYT crossword puzzles. Through these models, we aimed to gain a deeper understanding of the capabilities of current LLM technologies and their suitability for addressing complex language-based challenges, exemplified by the nuances of NYT crossword puzzle clues.
